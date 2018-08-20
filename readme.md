@@ -21,3 +21,18 @@ From time to time, it would be helpful to commit your code and send me a link to
 [Github.com/developerx](https://github.com/developerX)
 
 
+
+High Level Overview
+--- 
+
+- HTML (Hypertext markup language)
+
+- CSS (Cascading stylesheets)
+
+- Frameworks (Bootstrap) 
+
+- Javascript 
+
+- jQuery 
+
+- Course Project 
