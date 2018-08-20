@@ -13,7 +13,7 @@ Best ways of communication and to get answers
 
 3. Email (mansoor.bahramand@galvanize.com)
 
-###Code Reviews
+### Code Reviews
 ___
 
 From time to time, it would be helpful to commit your code and send me a link to review. Using Github allows me to view and comment individual lines of code during the pull-request phase. Please follow the link below and follow me, so I can keep track of your progress.
